@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Idle (32 x 32).png-4980ece704574db3b3113ce3f2ca8f80.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/enemy_asset/robot_2/Idle (32 x 32).png"
+dest_files=[ "res://.import/Idle (32 x 32).png-4980ece704574db3b3113ce3f2ca8f80.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
